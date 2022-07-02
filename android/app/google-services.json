@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845255410304",
+    "project_id": "membank-8be08",
+    "storage_bucket": "membank-8be08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845255410304:android:ccb3776b1723682c471c65",
+        "android_client_info": {
+          "package_name": "com.example.mem_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845255410304-ik53nvoles1k6ta3f8rdmj25g6kt0i86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9R8Xv5O0UqZiNxmd24TWEbmN-6PJRKtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845255410304-ik53nvoles1k6ta3f8rdmj25g6kt0i86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
